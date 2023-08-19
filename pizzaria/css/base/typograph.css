@@ -1,0 +1,19 @@
+
+.titulo-principal {
+    font-family: var(--font-borel);
+    font-size: var(--txt-large);
+}
+
+.txt_small {
+    font-family: var(--font-borel);
+    font-size: var(--txt-small);
+    font-weight: 300;
+}
+
+.txt_medium{
+    font-family: var(--font-borel);
+    font-size: var(--txt-meduim);
+    font-weight: 700;
+
+
+}

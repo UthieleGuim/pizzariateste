@@ -1,0 +1,19 @@
+.image_cards{
+
+    width: 300px;
+    
+}
+
+.cards{
+    display: flex;
+    gap: 48px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+
+@media(max-width: 600px){
+    .cards {
+        flex-direction: column;
+    }
+}
